@@ -3,7 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
-body {
+body{
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: url(images/IMG-400.JPEG) no-repeat center center fixed;
+  background-size: cover;
+}
+nav {
   display: flex;
   justify-content: center;
   align-items: center;
